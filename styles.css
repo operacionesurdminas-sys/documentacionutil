@@ -55,7 +55,9 @@ body {
   border: 1px solid var(--border);
   box-shadow: 0 10px 30px rgba(31,68,247,.17);
 }
-.logo svg { width: 40px; height: 40px; }
+
+.logo img { width: 50px; height: 50px; }
+
 .titles h1 {
   margin: 0;
   font-size: clamp(22px, 2.8vw, 32px);

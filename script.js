@@ -8,24 +8,42 @@
 const DATA = {
   "ACTAS VARIAS": {
     "ACTAS POR DELITO": [
-      { title: "RECIBO DE PERTENENCIAS", driveId: "1gri1qYkaCdYN524fgqdSwyo1IcfXRgHw" },
-      { title: "Acta Hurto - Plantilla", driveId: "BBBBBBBBBBBB" }
+      { title: "Acta de Inspeccion Ocular", driveId: "AAAAAAAAAAAA" },
+      { title: "Croquis Ilustrativo", driveId: "BBBBBBBBBBBB" },
+      { title: "Acta de Secuestro", driveId: "BBBBBBBBBBBB" },
+      { title: "Croquis Ilustrativo", driveId: "BBBBBBBBBBBB" },
+      
     ],
     "ACTAS DE CÓDIGO DE CONVIVENCIA CIUDADANA": [
-      { title: "Acta Convivencia - Art. 82", driveId: "DDDDDDDDDDDD" }
+      { title: "Acta de inicio con aprehendido", driveId: "DDDDDDDDDDDD" },
+      { title: "Acta de inicio sin aprehendido", driveId: "DDDDDDDDDDDD" }
     ],
     "OTRAS ACTAS": [
-      { title: "Acta Varios - Control Vehicular", driveId: "EEEEEEEEEEEE" }
+      { title: "Planilla Secuestro de Motocicletas", driveId: "EEEEEEEEEEEE" },
+      { title: "Recibo de pertenencias", driveId: "EEEEEEEEEEEE" },
+      { title: "Planilla de Control Vehicular", driveId: "EEEEEEEEEEEE" },
+       { title: "Acta de incautacion de armamento", driveId: "EEEEEEEEEEEE" }
+    ],
+
+    "ANEXOS": [
+      { title: "Anexo de armas no letales", driveId: "EEEEEEEEEEEE" },
     ]
   },
   "LEYES Y PROTOCOLOS": {
     "LEYES": [
-      { title: "Ley Provincial 9283 (Convivencia)", driveId: "FFFFFFFFFFFF" }
+      { title: "Ley 10326  - C.C.C", driveId: "FFFFFFFFFFFF" },
+      { title: "Codigo Penal", driveId: "FFFFFFFFFFFF" },
+      { title: "Ley 10371 - Control Disciplinario", driveId: "FFFFFFFFFFFF" },
     ],
     "PROTOCOLOS": [
-      { title: "Protocolo de Actuación - Intervenciones", driveId: "GGGGGGGGGGGG" }
+      { title: "Protocolo de Armas Blancas", driveId: "1uer9oF472nayXthN3FwRvDhdZSnenBSA" },
+      { title: "Protocolo de Uso Racional de la Fuerza", driveId: "GGGGGGGGGGGG" },
+      { title: "Protocolo de Salud Mental", driveId: "GGGGGGGGGGGG" },
+      { title: "Protocolo de Violencia Familiar personal Policial", driveId: "GGGGGGGGGGGG" }
+
     ]
   }
+
 };
 
 // ---------- Utilidades ----------
